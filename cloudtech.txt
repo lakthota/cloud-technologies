@@ -5,3 +5,6 @@ Google Cloud
 
 AWS
 SaaS
+
+Platform as a service
+Infrastructure
