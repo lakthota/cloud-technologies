@@ -11,3 +11,6 @@ Infrastructure
 
 IBM cloud
 IAAS
+
+Sales force
+Alibaba Cloud
