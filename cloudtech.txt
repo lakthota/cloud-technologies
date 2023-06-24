@@ -2,3 +2,6 @@ Cloud Technologies
 
 Microsoft Azure
 Google Cloud
+
+AWS
+SaaS
